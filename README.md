@@ -97,7 +97,7 @@ Business Insight Generation
 
 This dashboard provides a complete overview of total sales, total orders, books sold, and monthly & yearly sales trends.
 
-![Sales Overview](screenshots/sales_overview.png)
+![Sales Overview](Online_Bookstore_Project/Power BI/Online_Book_Strore_Dashbored1.png)
 
 🔹 Book Performance Analysis
 
