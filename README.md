@@ -103,13 +103,19 @@ This dashboard provides a complete overview of total sales, total orders, books 
 
 This page highlights top 10 books, genre-wise performance, author analysis, and stock vs sales comparison.
 
+![Book Analysis](Online_Bookstore_Project/Power_BI/Online_Book_Strore_Dashbored2.png)
+
 🔹 Customer Analysis Dashboard
 
 This dashboard analyzes customer distribution, top customers, city-wise orders, and average order value.
 
+![Customer Analysis](Online_Bookstore_Project/Power_BI/Online_Book_Strore_Dashbored3.png)
+
 🔹 Business Insights & Recommendations
 
 This section identifies top-selling and slow-moving books and provides data-driven recommendations for revenue growth and inventory optimization.
+
+![Business Insights](Online_Bookstore_Project/Power_BI/Online_Book_Strore_Dashbored4.png)
 
 ## 📌 Conclusion
 
