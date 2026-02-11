@@ -69,7 +69,6 @@ The project analyzes an online bookstore dataset to generate insights into sales
 
 ## 📊 DAX Measures Created  
 
-```DAX
 Total Sales = SUM(orders[Total_Price])
 
 Total Orders = COUNT(orders[Order_ID])
@@ -92,6 +91,25 @@ DAX Calculations
 Interactive Dashboard Development
 
 Business Insight Generation
+
+## 📸 Dashboard Screenshots
+🔹 Sales Overview Dashboard
+
+This dashboard provides a complete overview of total sales, total orders, books sold, and monthly & yearly sales trends.
+
+![Sales Overview](screenshots/sales_overview.png)
+
+🔹 Book Performance Analysis
+
+This page highlights top 10 books, genre-wise performance, author analysis, and stock vs sales comparison.
+
+🔹 Customer Analysis Dashboard
+
+This dashboard analyzes customer distribution, top customers, city-wise orders, and average order value.
+
+🔹 Business Insights & Recommendations
+
+This section identifies top-selling and slow-moving books and provides data-driven recommendations for revenue growth and inventory optimization.
 
 ## 📌 Conclusion
 
