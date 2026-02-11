@@ -78,23 +78,3 @@ Books Sold = SUM(orders[Quantity])
 
 Average Order Value = DIVIDE([Total Sales], [Total Orders])
 
-
-## 📸 Dashboard Screenshots
-🔹 Sales Overview Dashboard
-
-This dashboard provides a complete overview of total sales, total orders, books sold, and monthly & yearly sales trends.
-
-🔹 Book Performance Analysis
-
-This page highlights top 10 books, genre-wise performance, author analysis, and stock vs sales comparison.
-
-🔹 Customer Analysis Dashboard
-
-This dashboard analyzes customer distribution, top customers, city-wise orders, and average order value.
-
-🔹 Business Insights & Recommendations
-
-This section identifies top-selling and slow-moving books and provides data-driven recommendations for revenue growth and inventory optimization.
-
-
-
