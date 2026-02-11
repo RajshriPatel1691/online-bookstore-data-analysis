@@ -78,3 +78,23 @@ Books Sold = SUM(orders[Quantity])
 
 Average Order Value = DIVIDE([Total Sales], [Total Orders])
 
+
+## 🚀 Key Skills Demonstrated
+
+Data Cleaning & Preprocessing
+
+SQL & Database Design
+
+Data Modeling (Star Schema)
+
+DAX Calculations
+
+Interactive Dashboard Development
+
+Business Insight Generation
+
+## 📌 Conclusion
+
+This project demonstrates a complete real-world data analytics workflow:
+
+Raw Data → Data Cleaning → Database → Data Modeling → Dashboard → Business Insights
